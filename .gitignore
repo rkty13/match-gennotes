@@ -3,3 +3,10 @@ venv/
 __pycache__/
 
 .DS_Store
+
+*.swp
+clinvar.db
+clinvar.vcf.gz
+mapped_user_vcf/
+myvariant_cache.sqlite
+user_vcf_data/
