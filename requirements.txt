@@ -10,5 +10,5 @@ python-dateutil==2.6.1
 requests==2.18.4
 requests-cache==0.4.13
 six==1.10.0
-urllib3==1.22
+urllib3==1.26.5
 vcf2clinvar==0.1.4.2
